@@ -1,7 +1,7 @@
 <?php
 
 $url = $_REQUEST['url'];
-$isbns = array();
+
 header('Content-type: application/json');
 
 $reg = '#(?:http://(?:www\.){0,1}amazon\.com(?:/.*){0,1}(?:/dp/|/gp/product/))(.*?)(?:/.*|$)#';
