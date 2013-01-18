@@ -1,4 +1,4 @@
 cat-advisories
 ==============
 
-Know which books have violence to cats
+Illuminating how many books contain violence to cats
